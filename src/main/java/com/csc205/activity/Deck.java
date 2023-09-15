@@ -1,5 +1,7 @@
 package com.csc205.activity;
 
+import java.util.List;
+
 public interface Deck {
 
     void cut(int index);
